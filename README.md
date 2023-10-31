@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Baraiya</h1>
 <h3 align="center">An 19 year old undergratuate pursiving bca in india</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsrahul" alt="httpsrahul" /></a> </p>
 
 - 🔭 I’m currently student at **mk bhavnagar university**
 
